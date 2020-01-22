@@ -1,15 +1,13 @@
 # UNIX Commands Exercises
 Necessary files to complete this exercise.
 
-Download the files.
-
-* [ex1.acc](http://www.cbs.dtu.dk/courses/27610/ex1.acc)    
-* [ex1.dat](http://www.cbs.dtu.dk/courses/27610/ex1.dat)    
-* [orphans.sp](http://www.cbs.dtu.dk/courses/27610/orphans.sp)    
+* ex1.acc    
+* ex1.dat    
+* orphans.sp    
 
 You can play around with these files as much as you like. If you change or destroy them, just download them again.
 
-Note: All the following actions should be done through the terminal. It is not all commands that have been covered in class, so you will have to search for how to solve some of the problems. You are welcome to work together but you all have to do the exercises individually.   
+Note: All the following actions should be done through the terminal. It is not all commands that have been covered in class or the reading material, so you will have to search for how to solve some of the problems. You are welcome to work together but you all have to do the exercises individually.   
 
 ## Exercises
 1. Start by creating a directory (folder) where all the exercise files will be placed. You decide where, but a good place would be on your desktop, or in your document directory.
