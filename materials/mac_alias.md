@@ -8,7 +8,15 @@
     cd  
     open .bash_profile
 ````
-## Copy / paste this inot the file:
+
+## Or open your .zshrc file
+````
+    cd  
+    open .zshrc
+````
+If these file do not exist, create them in your root directory.  
+
+## Copy / paste this into the file:
 ````
     alias python='python3'
     alias pip='pip3'
