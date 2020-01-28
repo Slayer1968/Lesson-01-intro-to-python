@@ -1,5 +1,5 @@
 # UNIX Commands Exercises
-Before doing these exercises be sure to read "CommandLineCrashCourse.pdf". You can find this file on Fronter.  
+Before doing these exercises be sure to read "[CommandLineCrashCourse.pdf](https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=707190)". 
 
 Necessary files to complete this exercise.
 
