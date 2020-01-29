@@ -56,6 +56,9 @@
 ````
     mkdir <foldername>      # create a folder
     touch <filname>         # create file
+
+    # powershell
+    echo $null >> <filename>
 ````
 
 **List folders content**
